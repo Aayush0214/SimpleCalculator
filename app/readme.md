@@ -1,0 +1,1 @@
+This is a simple calculator application which performs basic arithmetic calculation. 
